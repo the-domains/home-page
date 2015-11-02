@@ -1,0 +1,23 @@
+name: Home page
+favicon: null
+layout_spectrum: 0.6814495318103582
+typography_spectrum: 0.2744169901125133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.029366142582148314
+  lightness: 0.11537040560506284
+  saturation: 0.1256324395071715
+  rhythmicContrast: 0.5192378822248429
+purpose: []
